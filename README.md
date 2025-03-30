@@ -20,3 +20,5 @@ Automating workflows and improving deployment pipelines
 
 Mentoring and sharing knowledge with the tech community
 
+📩 Let’s Connect:
+[LinkedIn Profile](https://www.linkedin.com/in/monikamehrotra112/)
